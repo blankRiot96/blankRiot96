@@ -1,27 +1,26 @@
-<div>
-  <h2>⌛ Activity & Languages</h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=blankRiot96&show_icons=true&include_all_commits=true&count_private=true&bg_color=ffffff00&text_color=34ebe5&hide_border=true" height="150" alt="stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blankRiot96&layout=compact&langs_count=4&bg_color=ffffff00&text_color=34ebe5&count_private=true&hide_border=true" height="150" alt="most_used_langs">
-  
-  <h2>🛠️ Tools</h2>
-<p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a> 
-  <a href="https://www.pyga.me" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/blankRiot96/blankRiot96.github.io/main/assets/md-icons/pygame.png" alt="pygame" width="40" height="40"></a> 
-  <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/blankRiot96/blankRiot96.github.io/main/assets/md-icons/rust.png" alt="rust" width="40" height="40"/> </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-  <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> 
-  <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> 
-</p>
 
-<!--
-  <img src="https://raw.githubusercontent.com/blankRiot96/blankRiot96.github.io/main/assets/md-icons/python.png" width=40></a>
-  <img src="https://raw.githubusercontent.com/blankRiot96/blankRiot96.github.io/main/assets/md-icons/pygame.png" width=40></a>
-  <img src="https://raw.githubusercontent.com/blankRiot96/blankRiot96.github.io/main/assets/md-icons/rust.png" width=40></a>
-  <img src="https://raw.githubusercontent.com/blankRiot96/blankRiot96.github.io/main/assets/md-icons/flet.png" width=40></a>
-  <img src="https://raw.githubusercontent.com/blankRiot96/blankRiot96.github.io/main/assets/md-icons/tiled.png" height=40></a>
--->
-</div>
+i like:
+- making games (see https://blankriot96.itch.io/)
+- watching anime
+- playing some games (ULTRAKILL, Hollow Knight, Celeste, Stardew Valley, Burnout Paradise Remastered 2018, NFS MW 2005, Hades)
+
+i dont like vibe coding
+
+* notably decent at Python, though my typing knowledge is slightly outdated ig. not really familiar with the new generics syntax and whatnot.<br>
+  probably dabbled the most in python, tried a whole bunch of things, most of my projects are sourced in it<br>
+  some notable things ive done in python include:
+    - my [modal text editor](<https://github.com/blankRiot96/axedit>) that i made from scratch for python, it's functional! (a bit buggy, though)<br>
+    took me 9 months, though i was working on and off on it during that time. tried implementing a few of the vim motions i use in it as well<br>
+    plugged in jedi for autocomplete and ruff for the linting<br>
+    but i guess most of the work was making a working text editing buffer from scratch, i mean you gotta support a whole lot of things (selecting and deleting text by dragging your mouse, remembering state as you move the cursor around, pasting text somewhere in between, indentation after a new line [this one i kinda gave up on])
+
+    - my [games](https://blankriot96.itch.io/) [a lot to see here, do check em out :)]
+    - logging library called [logit](https://github.com/blankRiot96/logit)
+    - [mechanical keyboard sound emulator + typing test application](https://github.com/blankRiot96/pyhb)
+
+* ive tried my hand at a few projects in rust, like i tried following crafting interpreters but with rust but didnt get really far<br>
+  i also tried my hand at making a few games with macroquad<br>
+  recently used embassy-rs and esp-hal to program the pico2 and esp32 boards for my electronics project in uni
+
+* got used to the basic java syntax and C syntax due to uni, i dont need to look things up to write small programs in them
+
