@@ -6,9 +6,8 @@ i like:
 
 i dont like vibe coding
 
-* notably decent at Python, though my typing knowledge is slightly outdated ig. not really familiar with the new generics syntax and whatnot.<br>
-  probably dabbled the most in python, tried a whole bunch of things, most of my projects are sourced in it<br>
-  some notable things ive done in python include:
+* ive dabbled the most in python<br>
+  some notable things ive done include:
     - my [modal text editor](<https://github.com/blankRiot96/axedit>) that i made from scratch for python, it's functional! (a bit buggy, though)<br>
     took me 9 months, though i was working on and off on it during that time. tried implementing a few of the vim motions i use in it as well<br>
     plugged in jedi for autocomplete and ruff for the linting<br>
@@ -18,9 +17,11 @@ i dont like vibe coding
     - logging library called [logit](https://github.com/blankRiot96/logit)
     - [mechanical keyboard sound emulator + typing test application](https://github.com/blankRiot96/pyhb)
 
-* ive tried my hand at a few projects in rust, like i tried following crafting interpreters but with rust but didnt get really far<br>
-  i also tried my hand at making a few games with macroquad<br>
-  recently used embassy-rs and esp-hal to program the pico2 and esp32 boards for my electronics project in uni
+* ive tried my hand at a few projects in rust
+  - done AoC [2015](<https://github.com/blankRiot96/aoc15>) and [2025](<<https://github.com/blankRiot96/aoc25>>) in rust
+  - tried following crafting interpreters but with rust but didnt get really far
+  - also tried my hand at making a few games with macroquad
+  - recently used embassy-rs and esp-hal to program the pico2 and esp32 boards for my electronics project in uni
 
 * got used to the basic java syntax and C syntax due to uni, i dont need to look things up to write small programs in them
 
