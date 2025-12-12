@@ -18,7 +18,7 @@ i dont like vibe coding
     - [mechanical keyboard sound emulator + typing test application](https://github.com/blankRiot96/pyhb)
 
 * ive tried my hand at a few projects in rust
-  - done AoC [2015](<https://github.com/blankRiot96/aoc15>) and [2025](<<https://github.com/blankRiot96/aoc25>>) in rust
+  - done AoC [2015](<https://github.com/blankRiot96/aoc15>) and [2025](<https://github.com/blankRiot96/aoc25>) in rust
   - tried following crafting interpreters but with rust but didnt get really far
   - also tried my hand at making a few games with macroquad
   - recently used embassy-rs and esp-hal to program the pico2 and esp32 boards for my electronics project in uni
